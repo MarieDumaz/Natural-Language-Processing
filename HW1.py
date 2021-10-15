@@ -1,7 +1,6 @@
 # CS 593A: Natural Language Processing
 # Assignment 1
-# Marie Dumaz
-# September 14th, 2020
+
 from nltk.tokenize import TweetTokenizer
 from nltk import bigrams
 from nltk import ngrams
