@@ -1,9 +1,6 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
-Created on Sat Nov  7 23:31:57 2020
-
-@author: mcd0029
+CS 593A
+Assesment 4
 """
 
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
